@@ -1,0 +1,24 @@
+{
+  "name": "biketime",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@turf/along": "^6.0.1",
+    "@turf/length": "^6.0.2",
+    "deck.gl": "^5.3.2",
+    "luma.gl": "^5.3.0",
+    "mapbox-gl": "^0.46.0-beta.1",
+    "moment": "^2.22.2",
+    "rc-slider": "^8.6.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-map-gl": "^3.2.10",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
